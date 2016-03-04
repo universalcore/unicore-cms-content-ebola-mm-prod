@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "What are UNICEF\u2019s priorities? ", 
+  "primary_category": "b1dfb668d07b4bcbaf0c4c1307eeeab0", 
+  "created_at": "2016-03-04T03:56:22.487268+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-03-04T03:56:22.487490+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Globally, UNICEF\u2019s activities in mine action are primarily focused in three areas: \r\n1)\tMine Risk Education (MRE): which aims to make people aware of mines/ERW and enable them to live more safely in the communities. UNICEF in coordination with MR working group has developed a common MRE tools and now the focus is to roll out the tool along training. UNICEF will continue to provide MRE in schools, IDP camps, and also in affected communities etc.   \r\n2)\tVictim Assistance: UNICEF\u2019s role is to work with the government and humanitarian/development partners to ensure that survivors have access to life \u2013saving and rehabilitation services. \r\n3)\tAdvocacy; Its Advocacy on the compliance with international laws (For instance Mine Ban Treaty, Convention on Conventional Weapons CCW). \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "10fdb8d786ce4db9986166a7cd71920c", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-are-unicefs-priorities", 
+  "uuid": "1db10ac28aa04a0aa8e1c396cea7ea10"
+}
