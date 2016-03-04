@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1db10ac28aa04a0aa8e1c396cea7ea10"
+  ], 
   "id": null, 
   "content": "Since 2012, there is a national Mine Risks working group co-chair by the Ministry of Social Welfare and UNICEF. This working group is comprise of 10 government ministries/department, and more than 28 national and international organizations. It provides a platform for information sharing and aims to ensure effective coordination among key actors. \r\n\r\nIn 2014, two State level MR WG were established one in Kachin one in Kayah to get closer to the people, decentralize the efforts. Working group also formulated its two year strategic work plan (2015-2016) including MRE, victim assistance and information management. Now what we need is that we should all contribute including donors to implement the plan\r\n", 
   "source": null, 
