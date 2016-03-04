@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Do we know the exact number of casualties from landmines and ERW?", 
+  "primary_category": "b1dfb668d07b4bcbaf0c4c1307eeeab0", 
+  "created_at": "2016-03-04T03:45:11.576974+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-03-04T03:45:11.577173+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "-\tThe total number of casualties in Myanmar is unknown. There is no systematic data collection system and verifying sources. There are estimates: Eg. The International Coalition to Ban Landmines (ICBL) has collected information on contamination and casualties in fifty townships in the 14 states and regions, and it has revealed that over 400 civilians had been killed and another 3,300 injured by landmines over the past 17 years (2015 included), adding that these figures likely underestimate the true extent of damage and lives lost.\r\n-\tIn 2015 only, 15 people have lost their life including 9 children and more than 33 people have been severely injured. This number could go higher as there is no comprehensive surveillance system in the country. (source: UNICEF and Partners) \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "bb9f6c42322d44458fb9b4f8e06c1758", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "do-we-know-exact-number-casualties-landmines-and-erw", 
+  "uuid": "e175733166344a38bf8c6dee97ba0f8a"
+}
