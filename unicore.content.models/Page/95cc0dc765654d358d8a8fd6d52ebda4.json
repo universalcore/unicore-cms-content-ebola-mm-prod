@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1416a52bc1594a1888a2e9517c85ca9c"
+  ], 
   "id": null, 
   "content": "UNICEF and DanChurdAid in coordination with government conducted a Knowledge, Attitude and Practice (KAP) survey in South-East of Myanmar and following are some of the Myths about landmines and ERW.\r\n\r\n-\tBurning was a safe way to get rid of mines\r\n-\tFollowing animals is a safe way to check of mines \r\n-\tProdding is a safe way to check for mines\r\n-\tHomemade mines have small battery and are not active after six months or \r\n-\tAfter rainy season mine are deactivated \r\n", 
   "source": null, 
