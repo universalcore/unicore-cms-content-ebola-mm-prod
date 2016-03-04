@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Do you know some MYTHs or FALSE belief about landmines?", 
+  "primary_category": "b1dfb668d07b4bcbaf0c4c1307eeeab0", 
+  "created_at": "2016-03-04T03:51:06.844750+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-03-04T03:51:06.844951+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "UNICEF and DanChurdAid in coordination with government conducted a Knowledge, Attitude and Practice (KAP) survey in South-East of Myanmar and following are some of the Myths about landmines and ERW.\r\n\r\n-\tBurning was a safe way to get rid of mines\r\n-\tFollowing animals is a safe way to check of mines \r\n-\tProdding is a safe way to check for mines\r\n-\tHomemade mines have small battery and are not active after six months or \r\n-\tAfter rainy season mine are deactivated \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "0097c395fe5940c2b569cbb54f2515c3", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "do-you-know-some-myths-or-false-belief-about-landmines", 
+  "uuid": "95cc0dc765654d358d8a8fd6d52ebda4"
+}
