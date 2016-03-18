@@ -3,12 +3,12 @@
   "uuid": "b1dfb668d07b4bcbaf0c4c1307eeeab0", 
   "language": "eng_GB", 
   "title": "Mine Action", 
-  "image": null, 
+  "image": "82dc7d2975a14971a5195e1692926084", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "mine-action", 
